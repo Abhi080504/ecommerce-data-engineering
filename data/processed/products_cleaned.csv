@@ -1,0 +1,11 @@
+id,title,category,price,discountPercentage,rating,stock,brand
+1,Essence Mascara Lash Princess,beauty,9.99,10.48,2.56,99,Essence
+2,Eyeshadow Palette with Mirror,beauty,19.99,18.19,2.86,34,Glamour Beauty
+3,Powder Canister,beauty,14.99,9.84,4.64,89,Velvet Touch
+4,Red Lipstick,beauty,12.99,12.16,4.36,91,Chic Cosmetics
+5,Red Nail Polish,beauty,8.99,11.44,4.32,79,Nail Couture
+6,Calvin Klein CK One,fragrances,49.99,1.89,4.37,29,Calvin Klein
+7,Chanel Coco Noir Eau De,fragrances,129.99,16.51,4.26,58,Chanel
+8,Dior J'adore,fragrances,89.99,14.72,3.8,98,Dior
+9,Dolce Shine Eau de,fragrances,69.99,0.62,3.96,4,Dolce & Gabbana
+10,Gucci Bloom Eau de,fragrances,79.99,14.39,2.74,91,Gucci

@@ -1,0 +1,6 @@
+order_id,customer_id,product,category,quantity,price
+1001,C001,Laptop,Electronics,1,55000
+1002,C002,Mouse,Electronics,2,800
+1003,C003,Keyboard,Electronics,1,1500
+1004,C001,Monitor,Electronics,1,12000
+1005,C004,Office Chair,Furniture,1,8500
